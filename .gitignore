@@ -1,0 +1,6 @@
+# ignore all hex files
+*.hex
+
+# ignore all out files
+*.out
+
