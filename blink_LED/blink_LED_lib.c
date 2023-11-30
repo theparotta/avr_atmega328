@@ -1,3 +1,7 @@
+// For compiling this: 
+//   avr-gcc -mmcu=atmega328p -Os blink_LED_lib.c -D F_CPU=16000000UL
+
+
 #include <avr/io.h>      // defines pins and ports      (/usr/avr/include/avr/io.h)
 #include <util/delay.h>  // function to add delay/sleep 
 

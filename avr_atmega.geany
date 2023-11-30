@@ -30,7 +30,7 @@ long_line_column=80
 current_page=2
 FILE_NAME_0=303;None;0;EUTF-8;0;1;1;%2Fhome%2Fkick%2FAtherton%2Fdrills%2Favr_atmega%2Favr_atmega.geany;0;4
 FILE_NAME_1=1680;C;0;EUTF-8;0;1;1;%2Fhome%2Fkick%2FAtherton%2Fdrills%2Favr_atmega%2Fblink_LED%2Fblink_LED.c;0;2
-FILE_NAME_2=343;C;0;EUTF-8;0;1;1;%2Fhome%2Fkick%2FAtherton%2Fdrills%2Favr_atmega%2Fblink_LED%2Fblink_LED_lib.c;0;2
+FILE_NAME_2=548;C;0;EUTF-8;0;1;1;%2Fhome%2Fkick%2FAtherton%2Fdrills%2Favr_atmega%2Fblink_LED%2Fblink_LED_lib.c;0;2
 
 [VTE]
-last_dir=/home/kick/Atherton/drills/avr_atmega/blink_LED
+last_dir=/home/kick/Atherton/drills/avr_atmega
