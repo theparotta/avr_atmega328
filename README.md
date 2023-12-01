@@ -1,4 +1,4 @@
-<h2 align="center">~~~ :parachute: Exploring the Embedded World with an AVR ATmega328p chip :jack_o_lantern: ~~~</h2>
+<h2 align="center">~~~ :parachute: Exploring the Embedded World with ATmega328p chip :jack_o_lantern: ~~~</h2>
 
 <h6>:anchor: Table of contents</h6>
 <ol>
