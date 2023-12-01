@@ -24,7 +24,7 @@ FFLAGS = -p $(CHIP) -b $(BAUD) -C $(CONF) -c $(PROGRAMMER_TYPE) -P $(DEVICE) -V 
 ### FILE CONFIGURATION ###
 # every time a new project is created, copy this Makefile within project dir
 # and change the file name variable below
-FILE = blink_LED
+FILE = blink_LED_lib
 
 
 
@@ -33,11 +33,11 @@ all: flash clean
 flash: hex
 	$(FLASHER) $(FFLAGS) -U flash:w:$(FILE).hex:i
 
-hex: blink
+hex: $(FILE)
 	$(OBJCOPY) $(FILE).out $(FILE).hex $(CHFLAGS)
 
-blink: $(FILE).c
+$(FILE): $(FILE).c
 	$(CC) $(CFLAGS) $(FILE).c  -o $(FILE).out
 
 clean:
-	rm -rf blink.out blink.hex
+	rm -rf $(FILE).out $(FILE).hex
