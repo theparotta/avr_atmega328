@@ -4,6 +4,7 @@
 <ol>
   <li><a href="https://github.com/theparotta/avr_atmega328/tree/trunk/blink_LED">blink_LED</a></li>
   <li><a href="https://github.com/theparotta/avr_atmega328/tree/trunk/pov_toy">POV_toy (persistence-of-vision)</a></li>
+  <li><a href="https://github.com/theparotta/avr_atmega328/tree/trunk/cylon_eyes">cylon_eyes</a></li>
 </ol>
 
 ---
