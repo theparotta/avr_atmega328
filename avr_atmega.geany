@@ -27,10 +27,9 @@ long_line_behaviour=1
 long_line_column=80
 
 [files]
-current_page=1
-FILE_NAME_0=80;C;0;EUTF-8;0;1;1;%2Fhome%2Fkick%2FAtherton%2Fdrills%2Favr_atmega%2Fpov_toy%2Fpov_toy.c;0;2
-FILE_NAME_1=624;Make;0;EUTF-8;1;1;1;%2Fhome%2Fkick%2FAtherton%2Fdrills%2Favr_atmega%2Fpov_toy%2FMakefile;0;4
-FILE_NAME_2=96;C;0;EUTF-8;0;1;1;%2Fhome%2Fkick%2FAtherton%2Fdrills%2Favr_atmega%2Fblink_LED%2Fblink_LED_lib.c;0;2
+current_page=0
+FILE_NAME_0=62;C;0;EUTF-8;0;1;1;%2Fhome%2Fkick%2FAtherton%2Fdrills%2Favr_atmega%2Fcylon_eyes%2Fcylon_eyes.c;0;2
+FILE_NAME_1=631;Make;0;EUTF-8;1;1;1;%2Fhome%2Fkick%2FAtherton%2Fdrills%2Favr_atmega%2Fcylon_eyes%2FMakefile;0;4
 
 [VTE]
-last_dir=/home/kick/Atherton/drills/avr_atmega/pov_toy
+last_dir=/home/kick/Atherton/drills/avr_atmega/cylon_eyes
