@@ -27,8 +27,9 @@ long_line_behaviour=1
 long_line_column=80
 
 [files]
-current_page=0
+current_page=1
 FILE_NAME_0=0;None;0;EUTF-8;0;1;1;%2Fhome%2Fkick%2FAtherton%2Fdrills%2Favr_atmega%2Favr_atmega.geany;0;4
+FILE_NAME_1=0;Markdown;0;EUTF-8;0;1;1;%2Fhome%2Fkick%2FAtherton%2Fdrills%2Favr_atmega%2FREADME.md;0;4
 
 [VTE]
-last_dir=/home/kick/Atherton/drills/avr_atmega/cylon_eyes
+last_dir=/home/kick/Atherton/drills/avr_atmega
