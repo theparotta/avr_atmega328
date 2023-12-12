@@ -2,9 +2,9 @@
 
 <h6>:anchor: Table of contents</h6>
 <ol>
-  <li><a href="https://github.com/theparotta/avr_atmega328/tree/trunk/blink_LED">blink_LED</a></li>
-  <li><a href="https://github.com/theparotta/avr_atmega328/tree/trunk/pov_toy">POV_toy (persistence-of-vision)</a></li>
-  <li><a href="https://github.com/theparotta/avr_atmega328/tree/trunk/cylon_eyes">cylon_eyes</a></li>
+  <li><a href="https://github.com/theparotta/avr_atmega328/tree/trunk/src/00_blink_LED">blink_LED</a></li>
+  <li><a href="https://github.com/theparotta/avr_atmega328/tree/trunk/src/01_pov_toy">POV_toy (persistence-of-vision)</a></li>
+  <li><a href="https://github.com/theparotta/avr_atmega328/tree/trunk/src/02_cylon_eyes">cylon_eyes</a></li>
 </ol>
 
 ---
