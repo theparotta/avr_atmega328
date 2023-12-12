@@ -1,11 +1,13 @@
 #include <avr/io.h> 
 #include <util/delay.h>
 
+#define DELAY 2
+
 void blink_leds(uint8_t);
 
 int main() {
   // setting all the pins in BANK-B as output
-  DDRB = 0xFF;
+  DDRD = 0xFF;
   
   while (1) {
     // turning on/off LEDS in below pattern
@@ -29,7 +31,7 @@ int main() {
 }
 
 
-void blink_leds(uint8_t portb) {
-  PORTB = portb;
-  _delay_ms(2);  
+void blink_leds(uint8_t portd) {
+  PORTD = portd;
+  _delay_ms(DELAY);  
 }

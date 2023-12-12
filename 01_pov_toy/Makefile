@@ -24,7 +24,7 @@ FFLAGS = -p $(CHIP) -b $(BAUD) -C $(CONF) -c $(PROGRAMMER_TYPE) -P $(DEVICE) -V 
 ### FILE CONFIGURATION ###
 # every time a new project is created, copy this Makefile within project dir
 # and change the file name variable below
-FILE = pov_toy
+FILE = up1
 
 
 
@@ -41,3 +41,4 @@ $(FILE): $(FILE).c
 
 clean:
 	rm -rf $(FILE).out $(FILE).hex
+	rm -rf *.out *.hex

@@ -1,7 +1,7 @@
 #include <avr/io.h>
 #include <util/delay.h>
 
-#define DELAY 100             /* 2 milliseconds */
+#define DELAY 30            /* 2 milliseconds */
 
 int main() {
   /* setting all the pins in BANK-D as output */
