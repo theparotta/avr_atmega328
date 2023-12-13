@@ -24,7 +24,7 @@ FFLAGS = -p $(CHIP) -b $(BAUD) -C $(CONF) -c $(PROGRAMMER_TYPE) -P $(DEVICE) -V 
 ### FILE CONFIGURATION ###
 # every time a new project is created, copy this Makefile within project dir
 # and change the file name variable below
-FILE = blink_LED_lib
+FILE = play_with_bits
 
 
 

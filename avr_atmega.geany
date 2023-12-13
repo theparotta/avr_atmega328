@@ -28,9 +28,9 @@ long_line_column=80
 
 [files]
 current_page=1
-FILE_NAME_0=34;C;0;EUTF-8;0;1;1;%2Fhome%2Fkick%2FAtherton%2Fdrills%2Favr_atmega%2Fsrc%2F03_invaders%2Finvaders.c;0;2
-FILE_NAME_1=590;Markdown;0;EUTF-8;0;1;1;%2Fhome%2Fkick%2FAtherton%2Fdrills%2Favr_atmega%2FREADME.md;0;4
-FILE_NAME_2=629;Make;0;EUTF-8;1;1;1;%2Fhome%2Fkick%2FAtherton%2Fdrills%2Favr_atmega%2Fsrc%2F03_invaders%2FMakefile;0;4
+FILE_NAME_0=590;Markdown;0;EUTF-8;0;1;1;%2Fhome%2Fkick%2FAtherton%2Fdrills%2Favr_atmega%2FREADME.md;0;4
+FILE_NAME_1=601;C;0;EUTF-8;0;1;1;%2Fhome%2Fkick%2FAtherton%2Fdrills%2Favr_atmega%2Fsrc%2F00_blink_LED%2Fplay_with_bits.c;0;2
+FILE_NAME_2=635;Make;0;EUTF-8;1;1;1;%2Fhome%2Fkick%2FAtherton%2Fdrills%2Favr_atmega%2Fsrc%2F00_blink_LED%2FMakefile;0;4
 
 [VTE]
-last_dir=/home/kick/Atherton/drills/avr_atmega
+last_dir=/home/kick/Atherton/drills/avr_atmega/src/00_blink_LED
